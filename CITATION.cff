@@ -1,0 +1,22 @@
+# Grant No. ERASMUS-EDU-2025-CBHE-101177220 (EU Erasmus+ CBHE ECO-WIND)
+cff-version: "1.2.0"
+message: "If you use this software, please cite it as follows."
+title: "ECO‑WIND Benchmarks"
+version: "0.1.0"
+date-released: "2026-11-24"
+authors:
+  - family-names: "Chatchawichchaihong"
+    given-names: "Chatchawich"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Pennsylvania State University"
+keywords:
+  - "wind energy"
+  - "benchmarks"
+  - "ECO‑WIND"
+license: "MIT"
+abstract: |
+  Benchmarks for the ECO‑WIND project, developed under EU Erasmus+ CBHE ECO‑WIND grant (Grant No. ERASMUS-EDU-2025-CBHE-101177220). All data are generated on‑the‑fly; no external datasets are duplicated. Benchmark scripts respect a ≤ 150 MiB peak RSS budget.
+url: "https://github.com/your-org/ecowind-benchmarks"
+repository-code: "https://github.com/your-org/ecowind-benchmarks"
+repository-type: "git"
+doi: "10.5281/zenodo.XXXXXX"

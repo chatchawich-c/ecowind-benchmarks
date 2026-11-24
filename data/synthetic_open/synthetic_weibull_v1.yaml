@@ -1,0 +1,8 @@
+# Minimal placeholder for synthetic Weibull v1 dataset
+# Add actual benchmark data here.
+
+synthetic_weibull_v1:
+  description: "Placeholder synthetic Weibull dataset"
+  parameters:
+    shape: 2.0
+    scale: 1.0

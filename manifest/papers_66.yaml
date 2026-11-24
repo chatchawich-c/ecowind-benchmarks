@@ -1,0 +1,31 @@
+# Grant No. ERASMUS-EDU-2025-CBHE-101177220 (EU Erasmus+ CBHE ECO-WIND)
+
+papers:
+  - id: synthetic_test_01
+    entrypoint: papers/synthetic_test_01/run.py
+  - id: iea_3_4mw_test
+    entrypoint: papers/iea_3_4mw_test/run.py
+  - id: nrel_5mw_test
+    entrypoint: papers/nrel_5mw_test/run.py
+  - id: iea_15mw_test
+    entrypoint: papers/iea_15mw_test/run.py
+  - id: care_v6
+    entrypoint: papers/care_v6/run.py
+  - id: paper5_parquet_harmonized
+    entrypoint: papers/paper5_parquet_harmonized/run.py
+  - id: paper6_dir
+    entrypoint: papers/paper6_dir/run.py
+  - id: result_base_dir
+    entrypoint: papers/result_base_dir/run.py
+  - id: P01
+    entrypoint: papers/p01/run.py
+  - id: P05
+    entrypoint: papers/p05/run.py
+  - id: P07
+    entrypoint: papers/p07/run.py
+  - id: P18
+    entrypoint: papers/p18/run.py
+  - id: P31
+    entrypoint: papers/p31/run.py
+  - id: P33
+    entrypoint: papers/p33/run.py
