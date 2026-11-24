@@ -24,3 +24,5 @@ abstract: >
 url: "https://github.com/chatchawich-c/ecowind-benchmarks"
 repository-code: "https://github.com/chatchawich-c/ecowind-benchmarks"
 repository-type: "git"
+
+doi: "10.5281/zenodo.24496449"
